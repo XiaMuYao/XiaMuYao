@@ -19,7 +19,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with Java, Kotlin, <br /> Graphql, Vue, Python.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/XiaMuYao/XiaMuYao/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: xiamuyaodqx@gmail.com.
 - 📝 &nbsp; Checkout my [Resume]().
 

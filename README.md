@@ -109,7 +109,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <br />
 </details>
  
-<details>	
+	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -122,7 +122,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 	    <br />
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
-</details>
+
 
 #
 
